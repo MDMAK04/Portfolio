@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🚀 Project Name
+  # 🚀 Mohammed El Makhloufi — Portfolio
 
   **A modern, responsive, and high-performance web application.**
 
