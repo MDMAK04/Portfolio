@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🚀 Mohammed El Makhloufi — Portfolio
+  # 🚀 MOHAMMED EL MAKHLOUFI — Portfolio
 
   **A modern, interactive portfolio showcasing Machine Learning, Deep Learning, and Full-Stack Engineering projects.**
 
